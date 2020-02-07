@@ -59,5 +59,6 @@ compress_html:
   blanklines: false
   profile: false
 
+theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
